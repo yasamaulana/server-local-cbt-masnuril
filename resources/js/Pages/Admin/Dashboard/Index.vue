@@ -6,7 +6,7 @@
     <div class="container-fluid mb-5 mt-5">
         <div class="row">
 
-            <div class="col-12 col-sm-6 col-xl-3 mb-4">
+            <!-- <div class="col-12 col-sm-6 col-xl-3 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body">
                         <div class="row d-block d-xl-flex align-items-center">
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-12 col-sm-6 col-xl-3 mb-4">
                 <div class="card border-0 shadow">

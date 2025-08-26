@@ -59,7 +59,7 @@
 
                 <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
 
-                <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/schools') }">
+                <!-- <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/schools') }">
                     <Link href="/admin/schools" class="nav-link d-flex justify-content-between">
                     <span>
                         <span class="sidebar-icon">
@@ -74,7 +74,7 @@
                         <span class="sidebar-text">Sekolah</span>
                     </span>
                     </Link>
-                </li>
+                </li> -->
 
                 <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/lessons') }">
                     <Link href="/admin/lessons" class="nav-link d-flex justify-content-between">
@@ -125,7 +125,7 @@
                     </Link>
                 </li>
 
-                <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/teachers') }">
+                <!-- <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/teachers') }">
                     <Link href="/admin/teachers" class="nav-link d-flex justify-content-between">
                     <span>
                         <span class="sidebar-icon">
@@ -140,8 +140,8 @@
                         <span class="sidebar-text">Guru</span>
                     </span>
                     </Link>
-                </li>
-                <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
+                </li> -->
+                <!-- <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
 
                 <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/ppdb') }">
                     <Link href="/admin/ppdb" class="nav-link d-flex justify-content-between">
@@ -159,6 +159,7 @@
                     </Link>
                 </li>
 
+                <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li> -->
                 <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
 
                 <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/exams') }">
@@ -211,7 +212,7 @@
                     </Link>
                 </li>
 
-                <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
+                <!-- <li role="separator" class="dropdown-divider mt-2 mb-2 border-gray-700"></li>
                 <li class="nav-item" :class="{ 'active': $page.url.startsWith('/admin/prestasi') }">
                     <Link href="/admin/prestasi" class="nav-link d-flex justify-content-between">
                     <span>
@@ -239,7 +240,7 @@
                         <span class="sidebar-text">Postingan</span>
                     </span>
                     </Link>
-                </li>
+                </li> -->
             </ul>
         </div>
     </nav>
